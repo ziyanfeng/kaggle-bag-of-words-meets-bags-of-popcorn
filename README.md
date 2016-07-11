@@ -31,3 +31,9 @@ You will also need to have software installed to run and execute a [Jupyter Note
 Udacity recommends our students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project. 
 
 
+### <a name="code"></a>Code
+
+Complete code is provided in the `notebook.ipynb` notebook file. You will also be required to use the dataset file in `data` directory to complete your work.
+
+
+
