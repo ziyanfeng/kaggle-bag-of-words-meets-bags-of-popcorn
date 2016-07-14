@@ -36,4 +36,16 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 Complete code is provided in the `notebook.ipynb` notebook file. You will also be required to use the dataset file in `data` directory to complete your work.
 
 
+### <a name="run"></a>Run
+
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run the following command:
+
+```jupyter notebook notebook.ipynb```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+
+### <a name='data'></a>Data
+
+Training and test data can be downloaded [here](https://www.kaggle.com/c/word2vec-nlp-tutorial/data).
 
